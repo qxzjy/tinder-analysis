@@ -17,12 +17,12 @@ We'll use the dataset to understand what makes people interested into each other
 
 | Name | Description |
 |:-|:-|
-| <ins>_00_eda.ipynb_</ins> | Who are the participants ? |
-| <ins>_01_analysis.ipynb_</ins> | Which attributes do participants place most importance on when deciding to see a partner again ? |
-| <ins>_02_analysis.ipynb_</ins> | Can people accurately predict their own perceived value in the dating market ? |
-| <ins>_03_analysis.ipynb_</ins> | Are shared interests more important than a shared racial background ? |
-| <ins>_04_analysis.ipynb_</ins> | In terms of getting a second date, is it better to be someone's first speed date of the night or their last ? |
-| <ins>_05_analysis.ipynb_</ins> | Does the main purpose of taking part in the event influence the decision to see a partner again ? |
+| [_00_eda.ipynb_](./notebooks/00_eda.ipynb) | Who are the participants ? |
+| [_01_analysis.ipynb_](./notebooks/01_analysis.ipynb) | Which attributes do participants place most importance on when deciding to see a partner again ? |
+| [_02_analysis.ipynb_](./notebooks/02_analysis.ipynb) | Can people accurately predict their own perceived value in the dating market ? |
+| [_03_analysis.ipynb_](./notebooks/03_analysis.ipynb) | Are shared interests more important than a shared racial background ? |
+| [_04_analysis.ipynb_](./notebooks/04_analysis.ipynb) | In terms of getting a second date, is it better to be someone's first speed date of the night or their last ? |
+| [_05_analysis.ipynb_](./notebooks/05_analysis.ipynb) | Does the main purpose of taking part in the event influence the decision to see a partner again ? |
 
 ## Author
 
